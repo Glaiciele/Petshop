@@ -8,7 +8,7 @@
   outline: none;
   border: none;
   text-decoration: none;
-  text-transform: capitalize;
+  
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
@@ -266,7 +266,7 @@ section {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
-  background: url(../image/home_bg_img.jpg) no-repeat;
+  background: url(../image/principal.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   position: relative;
@@ -728,7 +728,7 @@ section {
   padding-right: .5rem;
 }
 
-.footer .credit {
+.footer .baseboard {
   text-align: center;
   color: #fff;
   font-size: 2rem;
@@ -736,7 +736,7 @@ section {
   margin-top: 2.5rem;
 }
 
-.footer .credit span {
+.footer  {
   color: #e67e22;
 }
 
@@ -797,4 +797,3 @@ section {
     width: 90%;
   }
 }
-/*# sourceMappingURL=style.css.map */
