@@ -8,7 +8,6 @@
   outline: none;
   border: none;
   text-decoration: none;
-  
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
@@ -266,7 +265,7 @@ section {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
-  background: url(../image/principal.jpg) no-repeat;
+  background: url(../image/main.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   position: relative;
